@@ -206,7 +206,3 @@ docker logs https-portal
 
 ---
 
-
-
-Do you want me to also make a **shorter, beginner-friendly version with just key bullet points** (for quick setup), alongside this detailed one?
-```
