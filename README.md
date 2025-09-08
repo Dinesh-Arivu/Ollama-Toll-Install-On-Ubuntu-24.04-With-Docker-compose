@@ -1,6 +1,6 @@
 # 🚀 How to Install Ollama on Ubuntu 24.04 | Docker Compose
 
-# What is ollama?
+## What is ollama?
 Ollama is a free, open-source tool that allows you to download and run Large Language Models (LLMs) directly on your personal computer, offering privacy, offline access, and cost savings by eliminating the need for cloud-based services. 
 
 ## 📋 What You’ll Need
