@@ -3,6 +3,8 @@
 ## What is ollama?
 Ollama is a free, open-source tool that allows you to download and run Large Language Models (LLMs) directly on your personal computer, offering privacy, offline access, and cost savings by eliminating the need for cloud-based services. 
 
+<img width="1024" height="512" alt="Ollama" src="https://github.com/user-attachments/assets/8464f1d6-2d57-4564-8ec8-76cd6a2ddb41" />
+
 ## 📋 What You’ll Need
 Before we dive in, make sure you have:
 
